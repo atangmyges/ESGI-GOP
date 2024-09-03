@@ -2,7 +2,7 @@
   "id": "81dfca69-8078-4cbc-bd54-18d32f6676e0",
   "version": "2.0",
   "name": "creation_candidat",
-  "url": "http://local.leboncandidat.fr/app_dev.php/admin/",
+  "url": "http://local.lbc.fr/app_dev.php/admin/",
   "tests": [{
     "id": "6d8b4795-edb4-4549-bf86-10c315e97500",
     "name": "creation_candidat",
@@ -10,7 +10,7 @@
       "id": "adeab9a8-da4f-4f91-8b81-19a6628d7080",
       "comment": "",
       "command": "open",
-      "target": "http://local.leboncandidat.fr/app_dev.php/admin/",
+      "target": "http://local.lbc.fr/app_dev.php/admin/",
       "targets": [],
       "value": ""
     }, {
@@ -654,6 +654,6 @@
     "timeout": 300,
     "tests": ["6d8b4795-edb4-4549-bf86-10c315e97500"]
   }],
-  "urls": ["https://www.baidu.com/", "http://local.leboncandidat.fr/app_dev.php/admin/"],
+  "urls": ["https://www.baidu.com/", "http://local.lbc.fr/app_dev.php/admin/"],
   "plugins": []
 }
